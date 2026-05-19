@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm SRS PhotoShoot</h1>
 
 <h3 align="center">📸 Photographer • 🎬 Video Editor • 💻 Creative Developer</h3>
@@ -137,4 +137,3 @@
 <p align="center">
 🔥 Thanks for visiting my profile 🔥
 </p>
-```
