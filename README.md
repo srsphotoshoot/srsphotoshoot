@@ -1,139 +1,150 @@
-
-<h1 align="center">Hi 👋, I'm SRS PhotoShoot</h1>
-
-<h3 align="center">📸 Photographer • 🎬 Video Editor • 💻 Creative Developer</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Photography+Lover;Creative+Editor;Visual+Storyteller;Content+Creator;Full+Stack+Learner" alt="Typing SVG" />
-</p>
-
----
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=srsphotoshoot&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://instagram.com/">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
-
-<a href="https://youtube.com/">
-<img src="https://skillicons.dev/icons?i=youtube" height="50"/>
-</a>
-
-<a href="https://linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="https://github.com/srsphotoshoot">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-</p>
-
----
-
-# 🛠️ Languages & Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://skillicons.dev/icons?i=photoshop" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophy Dashboard
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=srsphotoshoot&theme=onedark&row=1&column=7" />
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=srsphotoshoot&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srsphotoshoot&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srsphotoshoot&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 📸 Photography & Creative Services
-
-✨ Wedding Photography  
-✨ Portrait Photography  
-✨ Fashion Shoots  
-✨ Cinematic Reels Editing  
-✨ Short Film Editing  
-✨ Content Creation  
-✨ Social Media Branding  
-
----
-
-# 🚀 Current Goals
-
-- 📷 Building Creative Photography Brand
-- 🎬 Improving Cinematic Editing Skills
-- 💻 Learning Full Stack Development
-- 🌍 Growing Online Presence
-
----
-
-# 📫 Contact Me
-
-📧 Email: yourmail@gmail.com  
-📱 Instagram: @yourusername  
-🎥 YouTube: YourChannelName  
-
----
-
-# ⚡ Fun Fact
-
-> “Photography is the story I fail to put into words.”
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/srsphotoshoot/srsphotoshoot/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-# 👑 Profile Ownership
+<h1 align="center">👑 Shree Radha Studio™</h1>
 
 <h3 align="center">
-⚡ This GitHub Profile is Managed & Controlled by 
-<a href="https://github.com/itsmesonu7462">itsmesonu7462</a> ⚡
+Women's Ethnicwear Manufacturer • Fashion House • Couture Studio
 </h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Premium+Ethnicwear+Manufacturer;Lehengas+•+Sarees+•+Indo-Westerns;Tradition+Meets+Modern+Fashion;Crafting+Elegance+Since+1998" />
+</p>
 
 ---
 
 <p align="center">
-🔥 Thanks for visiting my profile 🔥
+<img src="https://komarev.com/ghpvc/?username=srsphotoshoot&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
+
+---
+
+# 🏢 About Us
+
+Shree Radha Studio™ is a trusted Indian ethnicwear manufacturing and fashion house based in Gandhi Nagar, Delhi.
+
+With decades of craftsmanship and industry expertise, we specialize in premium women's ethnicwear including:
+
+✨ Designer Lehengas  
+✨ Sarees  
+✨ Indo-Western Outfits  
+✨ Bridal Couture  
+✨ Gowns & Occasion Wear  
+✨ Ready-to-Wear Ethnic Fashion  
+
+We proudly serve leading fashion brands and retailers across India with high-quality design, manufacturing, and wholesale solutions.
+
+---
+
+# 🌟 Our Specialities
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Designer-Lehengas-ff69b4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Premium-Sarees-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Indo-Western-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Bridal-Couture-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Women's-Ethnicwear-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🧵 Our Product Categories
+
+- 👗 Bridal Lehengas
+- 🌸 Designer Sarees
+- ✨ Party Wear Gowns
+- 💃 Indo-Western Collections
+- 🎀 Festive Wear
+- 🪡 Custom Manufacturing
+- 🛍️ Wholesale Fashion Supply
+
+---
+
+# 🌍 Our Presence
+
+📍 Gandhi Nagar, Delhi, India  
+🏭 Women's Ethnicwear Manufacturing Unit  
+🤝 B2B Fashion Supplier  
+🚚 PAN India & International Reach  
+
+---
+
+# 🛠️ Our Expertise
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Textile-Manufacturing-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Fashion-Design-pink?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Couture-Production-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wholesale-Supply-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Custom-Design-red?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Organization Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=srsphotoshoot&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srsphotoshoot&theme=radical" />
+</p>
+
+---
+
+# 🤝 Fashion Collaborations
+
+We collaborate with:
+
+✔️ Fashion Retailers  
+✔️ Ethnicwear Brands  
+✔️ Boutique Stores  
+✔️ Resellers & Wholesalers  
+✔️ Fashion Designers  
+✔️ Export Businesses  
+
+---
+
+# 📞 Contact Information
+
+📍 Gandhi Nagar, Delhi – 110031  
+📧 Email: info@shreeradhastudio.com  
+🌐 Website: https://shreeradhastudio.com  
+📱 Instagram: @shreeradha_rgh  
+
+---
+
+# ✨ Brand Vision
+
+> Preserving Indian tradition through timeless ethnic fashion and modern craftsmanship.
+
+---
+
+# 👑 Organization Management
+
+<h3 align="center">
+⚡ Official GitHub Organization of Shree Radha Studio™ ⚡
+</h3>
+
+<p align="center">
+Managed & Maintained by 
+<a href="https://github.com/itsmesonu7462">itsmesonu7462</a>
+</p>
+
+---
+
+# ❤️ Thank You
+
+<p align="center">
+Thank you for visiting Shree Radha Studio™
 </p>
